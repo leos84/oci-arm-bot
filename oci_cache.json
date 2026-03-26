@@ -1,0 +1,18 @@
+{
+    "getAvailabilityDomains": {
+        "b1127b0aaabf79e190f672bdb32f719a": [
+            {
+                "compartmentId": "ocid1.tenancy.oc1..aaaaaaaandsg7cucftzxfqkk54qihofijiqrhbetatlhnvdf57arugortrea",
+                "id": "ocid1.availabilitydomain.oc1..aaaaaaaawx54fdq62jqhpb6ac4hhb7p5zapnm5yvhpyjqv4sdhmr6bfzmeua",
+                "name": "iBtv:SA-SANTIAGO-1-AD-1"
+            }
+        ],
+        "1937d4d23402b794c8c58a8e25d4e6b3": [
+            {
+                "compartmentId": "ocid1.tenancy.oc1..aaaaaaaandsg7cucftzxfqkk54qihofijiqrhbetatlhnvdf57arugortrea",
+                "id": "ocid1.availabilitydomain.oc1..aaaaaaaawx54fdq62jqhpb6ac4hhb7p5zapnm5yvhpyjqv4sdhmr6bfzmeua",
+                "name": "iBtv:SA-SANTIAGO-1-AD-1"
+            }
+        ]
+    }
+}
